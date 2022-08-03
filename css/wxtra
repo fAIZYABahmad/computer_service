@@ -1,0 +1,50 @@
+<Section class="beackground-secend"
+        <div class="heading">
+               <h1>We Provide</h1>
+        </div>
+        <div class="fatures">
+            <div class="setup">
+                <h2>Setup you Computer</h2>
+              <img src="images/setup icon.PNG" alt="">
+            </div>
+            
+            <div class="clean-up">
+              <h2>Clean Up Services</h2>
+              <div class="Clean Up Services">
+                <img class="clean" src="images/clean up.png" alt="">
+              </div>
+            </div>
+              <div class="Security-pc">
+                <h2>Security Of Your Computer</h2>
+                <div class="Security">
+                  <img class="Security-of" src="images/cyber-security.png" alt=""
+                </div>
+              </div>
+                <div class="Upgrade">
+                  <h2>Upgrade Your Computer</h2>
+                  <div class="Upgrade-whole">
+                    <img class="upgrade-img" src="images/upgrade.png" alt="">
+ 
+                  </div>
+                </div>  
+                  <div class="Update">
+                      <h2>Get Your Self Updated</h2>
+                      <div class="Update">
+                        <img class="Update" src="images/update.png" alt="">
+                      </div>
+                  </div>  
+                  <div class="Networking">
+                    <h2>We Provide You Network</h2>
+                    <div class="network-">
+                      <img class="network-img" src="images/webside icon.png" alt="">
+                    </div>
+                </div>  
+                      <hr>
+              <div class="contact-me">
+                <h2>Get In Touch</h2>
+                <h3>Lorem ipsum dolor sit amet, non elit.</h3>
+                <p>Lorem ipsum dolor sit amet, in quis, aenean amet. Phasellus sodales, tellus donec dui, ornare erat.</p>
+                <a class="btn" href="mailto:name@email.com">CONTACT ME</a>
+              </div>
+            </div>
+   </section>  

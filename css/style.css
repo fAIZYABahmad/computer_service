@@ -1,0 +1,135 @@
+
+body {
+    margin: 0px;
+    padding: 0px;
+    position: relative;
+    bottom: 105px;
+    
+    
+  }
+  .logo {
+    height: 70px;
+    width: 100px;
+  }
+  .navigation-bar {
+    background-color: #5DADE2  ;
+    height: 70px;
+    width: 100%;
+    float: right;
+    margin: 0%;
+  }
+  
+  .navigation-bar ul {
+    padding: 0px;
+    margin: 0px;
+    text-align: center;
+    float: right;
+  }
+  
+  .navigation-bar li {
+    list-style-type: none;
+    padding: 0px;
+    height: 24px;
+    margin-top: 4px;
+    margin-bottom: 4px;
+    display: inline;
+  }
+  
+  .navigation-bar li a {
+    color: black;
+    font-size: 16px;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    line-height: 70px;
+    padding: 5px 15px;
+    opacity: 0.7;
+    
+  }
+  li a:hover {
+    background-color: white;
+  }
+.background {
+  color: #050504;
+  background-color: #F39C12;
+  height: 600px;
+}
+.main-box {
+  width:1200px;
+  height: auto;
+  margin: auto;
+  color: #ffffff ;
+  position: relative;
+}
+.content .par{
+  padding-left: 20px;
+padding-bottom: 25px;
+font-family: Arial, Helvetica, sans-serif;
+latter: spacing 1.2px;
+line-height: 30px;
+}
+.text-big{
+  font-family: 'Times New Roman';
+  font-size: 50px;
+  padding-left: 20px;
+  margin-top: 9%;
+  letter-spacing: 2px;
+  position: relative;
+top: 100px;
+}
+.par {
+  position: relative;
+  top: 90px;
+  left: 20px;
+}
+.secend{
+  display: flex;
+  width: 50px
+}
+.btn {
+  width: 160px;
+  height: 40px;
+  border: none;
+ margin-bottom: 10px;
+margin-left: 20px;
+font-size: 18px;
+border-radius: 10px;
+cursor: pointer;
+position: relative;
+top:100px;
+}
+.btn:hover{
+  background-color: rgb(9, 130, 243);
+
+
+}
+.pic {
+  position: relative;
+  left: 700px;
+  bottom: 250px;
+  display: flex;
+  margin bottom: 900px;
+}
+.next {
+  background-color: #ffffff;
+  height: 400px;
+  position: relative;
+  bottom: 30px;
+  bottom: 45px;
+
+}
+.next h1 {
+  color: #5DADE2 ;
+  position: relative;
+  text-align: center;
+  font-family: 'Times New Roman';
+  font-size: 50px;
+}
+.heading h1{
+   position: relative;
+  left: 300px;
+   color: #5DADE2;
+}
+.fatures {
+  background-color: #e44848;
+  height: 500px;
+}
